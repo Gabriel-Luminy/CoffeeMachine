@@ -36,7 +36,6 @@
 								<configuration>
 									<includes>
 										<include>**/*IT.java</include>
-										<include>**/*Test.java</include>
 									</includes>
 								</configuration>
 								<phase>integration-test</phase>
