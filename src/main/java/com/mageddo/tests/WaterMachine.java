@@ -11,6 +11,6 @@ public class WaterMachine {
 	}
 
 	public String doNormalWater(final double oz) {
-		return oz + "-basic water";
+		return oz + "-normal water";
 	}
 }
