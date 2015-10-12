@@ -19,7 +19,7 @@ public class CoffeeMachineIT {
 	
 	@Test
 	public void doCoffeeTest(){
-		Assert.assertEquals("3.38-hot water-hard-coffee", machine.doCoffee());
+		Assert.assertEquals("3.38-hot water-normal-coffee", machine.doCoffee());
 	}
 	
 }
