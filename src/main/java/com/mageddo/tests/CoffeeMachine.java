@@ -9,7 +9,7 @@ public class CoffeeMachine {
 	}
 
 	public String doCoffee() {
-		return this.waterMachine.doHotWater(3.38) + "-normal-coffee";
+		return this.waterMachine.doHotWater(3.38) + "-deca-coffee";
 	}
 	
 	public String helloWorld()
